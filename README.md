@@ -54,7 +54,9 @@
 ###
 
 <br clear="both">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RzRagnarok/RzRagnarok/output/github-contribution-grid-snake.svg" />
+</p>
 
-![Snake animation](https://github.com/RzRagnaroK/RzRagnaroK/blob/output/github-contribution-grid-snake.svg)
 
 ###
